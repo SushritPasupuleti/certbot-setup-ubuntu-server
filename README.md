@@ -23,3 +23,5 @@ Just generate a certificate (manually configure Nginx)
 ```bash
 sudo certbot certonly --nginx
 ```
+
+[Follow this if the above doesn't work](https://certbot.eff.org/lets-encrypt/ubuntufocal-nginx)
